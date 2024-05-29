@@ -16,7 +16,7 @@ docker run -d --name restaurant-review-app -p 8080:8080 demirrs/restaurant-revie
 ````
 ## Adım 3: Swagger UI'yi açma
 Tarayıcınızda Swagger UI'yi açmak için aşağıdaki adrese gidin:
-http://localhost:8080/
+- http://localhost:8080/
 
 ### Alternatif yol 
 [Swagger UI](http://localhost:8080/swagger-ui/index.html#/)
@@ -42,6 +42,7 @@ git clone https://github.com/sezerdemir7/RestaurantReviewApp.git
 - Restoran oluşturmak için kullanıcıların KIDEMLI rolünde olması gerekir.
 - Restoran silmek için kullanıcıların YONETICI rolünde olması gerekir.
 - Bir kullanıcı, bir restorana yalnızca bir yorum yapabilir ve bunu düzenleyebilir.
+
 
 ## User (Kullanıcılar)
 
